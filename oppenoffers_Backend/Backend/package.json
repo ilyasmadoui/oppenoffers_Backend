@@ -11,5 +11,10 @@
     "nodemailer": "^7.0.12",
     "puppeteer": "^24.40.0",
     "uuid": "^13.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   }
+}
 }
